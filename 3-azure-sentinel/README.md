@@ -62,7 +62,7 @@
 
 ----
 
-## Hunt for Threats Using the Azure Sentinel Portal
+## 3G: Hunt for Threats Using the Azure Sentinel Portal
 
 - Create custom hunting queries
 - Run hunting queries manually
