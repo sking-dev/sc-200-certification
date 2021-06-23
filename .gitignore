@@ -1,0 +1,20 @@
+# Specific exclusions.
+
+# TBC.
+
+####
+
+# General exclusions.
+
+# .vscode folder should only be checked in if sharing settings and configuration across a team.
+# See https://stackoverflow.com/questions/32964920/should-i-commit-the-vscode-folder-to-source-control.
+.vscode/
+
+# .DISABLED files.
+*.disabled
+
+# .OLD files.
+*.old
+
+# WIP and any other bits of code to be retained but not committed.
+WIP/*
