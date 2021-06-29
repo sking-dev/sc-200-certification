@@ -22,8 +22,8 @@ This repo supports study and learning for the SC-200 exam: Microsoft Security Op
 ### Secondary Sources
 
 - Microsoft Ninja Training
-  - [Microsoft 365 Defender: January 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073)
-  - [Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
-  - [Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+  - [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+  - [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
+  - [Become a Microsoft 365 Defender Ninja](https://techcommunity.microsoft.com/t5/microsoft-365-defender/become-a-microsoft-365-defender-ninja/ba-p/1789376)
+  - [Become an Azure Security Center Ninja](https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761)
   - [Azure Sentinel: The Complete Level 400 Training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
-  - [Azure Security Center](https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761)
